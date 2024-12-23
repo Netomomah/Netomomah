@@ -12,18 +12,18 @@ Hi there! I'm **Netochukwu Momah**, a passionate international development profe
 #### 📱 **Social Integration Platform for International Students**  
 - Designed a WhatsApp-based platform to tackle social isolation and improve cultural integration.  
 - Developed partnerships with campus organizations and collected feedback for refinement.  
-[View Repository](https://github.com/Netomomah/Social-Integration-Platform)
+[View Repository](https://github.com/Netomomah/Writing-the-Idea).
 
 #### 🌍 **Energizing Economies**  
 - Explored the global shift toward renewable energy and its economic benefits.  
 - Conducted in-depth analysis on GDP growth, job creation, and energy cost stabilization.  
 - Developed actionable policy recommendations for renewable energy adoption.  
-[View Repository](https://github.com/Netomomah/Energizing-Economies)
+[View Repository](https://github.com/Netomomah/Sustainable-energy).
 
 #### 🎒 **Athlete Backpack Marketing Strategy**  
 - Conducted market research and developed promotional campaigns to increase sales.  
 - Designed a production strategy incorporating athlete feedback.  
-[View Repository](https://github.com/Netomomah/Athlete-Backpack-Strategy)
+[View Repository](https://github.com/Netomomah/Market-Analysis)
 
 ### 📬 Get in Touch  
 - **Email**: [clintonmomah123@gmail.com](mailto:clintonmomah123@gmail.com)  
